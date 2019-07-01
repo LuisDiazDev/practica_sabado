@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "594162950493",
+    "firebase_url": "https://iclouds-86fb1.firebaseio.com",
+    "project_id": "iclouds-86fb1",
+    "storage_bucket": "iclouds-86fb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594162950493:android:44ce776d59346785",
+        "android_client_info": {
+          "package_name": "com.example.test_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594162950493-72hnb7iv857dtqvouauu4be8sbmhpe42.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB3M5v3GLcnUGh1xUt7kcfjgBxu3NqJgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594162950493-72hnb7iv857dtqvouauu4be8sbmhpe42.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594162950493:android:af58810b40d65efa",
+        "android_client_info": {
+          "package_name": "com.proyecto.practica.practica_sabado"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594162950493-72hnb7iv857dtqvouauu4be8sbmhpe42.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB3M5v3GLcnUGh1xUt7kcfjgBxu3NqJgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594162950493-72hnb7iv857dtqvouauu4be8sbmhpe42.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
